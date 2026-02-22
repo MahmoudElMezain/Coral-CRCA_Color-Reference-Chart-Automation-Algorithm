@@ -13,7 +13,7 @@ Authors:</h2>
   <br/>
   <a href="https://ieeexplore.ieee.org/author/820923684760909">Sultan Alshehhi</a> &nbsp;•&nbsp;
   <a href="https://scholar.google.com/citations?user=JsUhbe0AAAAJ&hl=en">Maryam R. Al Shehhi</a> &nbsp;•&nbsp;
-  <a href="https://scholar.google.com/citations?user=bCC3kdUAAAAJ&hl=en">Irfan Hussain</a> &nbsp;•&nbsp;
+  <a href="https://scholar.google.com/citations?user=bCC3kdUAAAAJ&hl=en">Irfan Hussain</a> &nbsp;
   <br/>
 </div>
 
