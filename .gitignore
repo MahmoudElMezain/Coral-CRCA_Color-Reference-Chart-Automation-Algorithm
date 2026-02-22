@@ -1,0 +1,33 @@
+# Python bytecode
+__pycache__/
+*.py[cod]
+*.so
+
+# Conda / virtual environments
+env/
+.venv/
+venv/
+.env
+
+# OS / editor junk
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Model weights & checkpoints
+Weights/*
+!Weights/.gitkeep
+
+checkpoints/*
+!checkpoints/.gitkeep
+
+*.pt
+*.pth
+
+# Logs / training outputs
+runs/
+logs/
