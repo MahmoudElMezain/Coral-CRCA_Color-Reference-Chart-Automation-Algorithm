@@ -18,7 +18,7 @@ Authors:</h2>
 </div>
 
 <h4 align="center">
-  <a href="https://www.sciencedirect.com/science/article/pii/S0025326X26001712?dgcid=rss_sd_all"><b>Paper</b></a> &nbsp;•&nbsp; 
+  <a href="https://www.sciencedirect.com/science/article/pii/S0025326X26001712?dgcid=rss_sd_all"><b>Paper</b></a> &nbsp; 
 </h4>
 
 <div align="center">
