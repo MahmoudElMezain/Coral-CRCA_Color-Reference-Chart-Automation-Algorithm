@@ -125,7 +125,7 @@ You should see:
 - **SAM segmentation:** indexed candidate coral masks; select the best index in the terminal.
 - **Bleaching output:** printed bleaching percentage and a visualization.
 
-# Project Structure 🏗️
+# Project Structure 🗂️
 ```
 Coral-CRCA_Color-Reference-Chart-Automation-Algorithm/
 ├── README.md
@@ -166,7 +166,7 @@ Coral-CRCA_Color-Reference-Chart-Automation-Algorithm/
 ```
 
 
-## Bibtex
+## Bibtex 📚
 ```
 @article{ELMEZAIN2026119384,
       title={Coral-CRCA: A Color-Reference Chart Automation Algorithm for Coral Bleaching Visualization and Severity Assessment},
