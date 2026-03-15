@@ -113,7 +113,7 @@ Model weights are not stored in this repository. Please download them manually.
 
 ### 4- Quick run
 ```
-conda activate Coral-CRCA   # or your chosen env name
+conda activate coral-crca
 cd Coral-CRCA_Color-Reference-Chart-Automation-Algorithm
 python Full_Pipeline.py
 ```
