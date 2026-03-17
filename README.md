@@ -60,7 +60,7 @@ We propose **Coral Color-Reference Chart Automation (Coral-CRCA)**, a multi-stag
 
 The input image is first processed using underwater image denoising techniques to correct color casts and reduce blur. The denoised image is then passed through:
 
-1. **Coral segmentation ([CoralSCOP](https://coralscop.hkustvgd.com/) / SAM)** to extract coral regions.  
+1. **Coral segmentation using [CoralSCOP](https://coralscop.hkustvgd.com/)** to extract coral regions.  
 2. **YOLOv11-OBB chart detection** to localize the color reference chart and its quadrants.  
 3. **Dominant color extraction** for each chart quadrant (B1–6, C1–6, D1–6, E1–6).  
 4. **Pixel-wise color matching** that assigns each coral pixel to its closest reference grade, enabling:
